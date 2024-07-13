@@ -34,6 +34,8 @@ public class Day1 {
 		
 		System.out.println(URL);
 		System.out.println(APIKey);
+		System.out.println("Test 1");
+		System.out.println("Test 2");
 
 	}
 }
