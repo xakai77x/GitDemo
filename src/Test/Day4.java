@@ -35,6 +35,8 @@ public class Day4 {
 		System.out.println(username);
 		System.out.println(password);
 		
+		System.out.println("newTest");
+		
 	}
 	
 	@DataProvider
